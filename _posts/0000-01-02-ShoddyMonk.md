@@ -1,6 +1,1 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+![Fk off 2020](https://i.redd.it/gjzbopwejh661.png)
